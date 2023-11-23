@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=WygladDeveloper&label=Wyświetlenia%20profilu&color=0e75b6&style=plastic" alt="WygladDeveloper" /> 
+	<img src="https://komarev.com/ghpvc/?username=WygladDeveloper&label=Profile%20views&color=0e75b6&style=plastic" alt="WygladDeveloper" /> 
 </p>
 
 
