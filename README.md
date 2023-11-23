@@ -36,7 +36,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains" /></a>
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-252525" /></a>
   &emsp;
     <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-8A2BE2" /></a>
 </p>
